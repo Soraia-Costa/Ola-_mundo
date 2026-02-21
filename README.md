@@ -1,2 +1,2 @@
-# Ola _mundo
-repositorio curso em video
+# Olá mundo!!
+Repositorio curso em video, aorendendo Git e Github
