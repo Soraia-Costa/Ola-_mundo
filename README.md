@@ -1,2 +1,2 @@
 # Olá mundo!!
-Repositorio curso em video, aorendendo Git e Github
+Repositorio curso em video, aprendendo Git e Github
